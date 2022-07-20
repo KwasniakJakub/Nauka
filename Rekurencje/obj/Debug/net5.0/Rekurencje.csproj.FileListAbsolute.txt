@@ -1,0 +1,16 @@
+D:\C# kursy\Rekurencje\bin\Debug\net5.0\Rekurencje.exe
+D:\C# kursy\Rekurencje\bin\Debug\net5.0\Rekurencje.deps.json
+D:\C# kursy\Rekurencje\bin\Debug\net5.0\Rekurencje.runtimeconfig.json
+D:\C# kursy\Rekurencje\bin\Debug\net5.0\Rekurencje.runtimeconfig.dev.json
+D:\C# kursy\Rekurencje\bin\Debug\net5.0\Rekurencje.dll
+D:\C# kursy\Rekurencje\bin\Debug\net5.0\Rekurencje.pdb
+D:\C# kursy\Rekurencje\obj\Debug\net5.0\Rekurencje.csproj.AssemblyReference.cache
+D:\C# kursy\Rekurencje\obj\Debug\net5.0\Rekurencje.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# kursy\Rekurencje\obj\Debug\net5.0\Rekurencje.AssemblyInfoInputs.cache
+D:\C# kursy\Rekurencje\obj\Debug\net5.0\Rekurencje.AssemblyInfo.cs
+D:\C# kursy\Rekurencje\obj\Debug\net5.0\Rekurencje.csproj.CoreCompileInputs.cache
+D:\C# kursy\Rekurencje\obj\Debug\net5.0\Rekurencje.dll
+D:\C# kursy\Rekurencje\obj\Debug\net5.0\refint\Rekurencje.dll
+D:\C# kursy\Rekurencje\obj\Debug\net5.0\Rekurencje.pdb
+D:\C# kursy\Rekurencje\obj\Debug\net5.0\Rekurencje.genruntimeconfig.cache
+D:\C# kursy\Rekurencje\obj\Debug\net5.0\ref\Rekurencje.dll

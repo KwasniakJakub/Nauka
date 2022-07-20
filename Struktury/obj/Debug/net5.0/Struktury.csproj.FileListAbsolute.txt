@@ -1,0 +1,16 @@
+D:\C# kursy\Struktury\bin\Debug\net5.0\Struktury.exe
+D:\C# kursy\Struktury\bin\Debug\net5.0\Struktury.deps.json
+D:\C# kursy\Struktury\bin\Debug\net5.0\Struktury.runtimeconfig.json
+D:\C# kursy\Struktury\bin\Debug\net5.0\Struktury.runtimeconfig.dev.json
+D:\C# kursy\Struktury\bin\Debug\net5.0\Struktury.dll
+D:\C# kursy\Struktury\bin\Debug\net5.0\Struktury.pdb
+D:\C# kursy\Struktury\obj\Debug\net5.0\Struktury.csproj.AssemblyReference.cache
+D:\C# kursy\Struktury\obj\Debug\net5.0\Struktury.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# kursy\Struktury\obj\Debug\net5.0\Struktury.AssemblyInfoInputs.cache
+D:\C# kursy\Struktury\obj\Debug\net5.0\Struktury.AssemblyInfo.cs
+D:\C# kursy\Struktury\obj\Debug\net5.0\Struktury.csproj.CoreCompileInputs.cache
+D:\C# kursy\Struktury\obj\Debug\net5.0\Struktury.dll
+D:\C# kursy\Struktury\obj\Debug\net5.0\refint\Struktury.dll
+D:\C# kursy\Struktury\obj\Debug\net5.0\Struktury.pdb
+D:\C# kursy\Struktury\obj\Debug\net5.0\Struktury.genruntimeconfig.cache
+D:\C# kursy\Struktury\obj\Debug\net5.0\ref\Struktury.dll

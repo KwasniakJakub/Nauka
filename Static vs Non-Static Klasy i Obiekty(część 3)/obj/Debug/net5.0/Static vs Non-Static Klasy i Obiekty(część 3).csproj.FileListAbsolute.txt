@@ -1,0 +1,16 @@
+D:\C# kursy\Static vs Non-Static Klasy i Obiekty(część 3)\bin\Debug\net5.0\Static vs Non-Static Klasy i Obiekty(część 3).exe
+D:\C# kursy\Static vs Non-Static Klasy i Obiekty(część 3)\bin\Debug\net5.0\Static vs Non-Static Klasy i Obiekty(część 3).deps.json
+D:\C# kursy\Static vs Non-Static Klasy i Obiekty(część 3)\bin\Debug\net5.0\Static vs Non-Static Klasy i Obiekty(część 3).runtimeconfig.json
+D:\C# kursy\Static vs Non-Static Klasy i Obiekty(część 3)\bin\Debug\net5.0\Static vs Non-Static Klasy i Obiekty(część 3).runtimeconfig.dev.json
+D:\C# kursy\Static vs Non-Static Klasy i Obiekty(część 3)\bin\Debug\net5.0\Static vs Non-Static Klasy i Obiekty(część 3).dll
+D:\C# kursy\Static vs Non-Static Klasy i Obiekty(część 3)\bin\Debug\net5.0\ref\Static vs Non-Static Klasy i Obiekty(część 3).dll
+D:\C# kursy\Static vs Non-Static Klasy i Obiekty(część 3)\bin\Debug\net5.0\Static vs Non-Static Klasy i Obiekty(część 3).pdb
+D:\C# kursy\Static vs Non-Static Klasy i Obiekty(część 3)\obj\Debug\net5.0\Static vs Non-Static Klasy i Obiekty(część 3).csproj.AssemblyReference.cache
+D:\C# kursy\Static vs Non-Static Klasy i Obiekty(część 3)\obj\Debug\net5.0\Static vs Non-Static Klasy i Obiekty(część 3).GeneratedMSBuildEditorConfig.editorconfig
+D:\C# kursy\Static vs Non-Static Klasy i Obiekty(część 3)\obj\Debug\net5.0\Static vs Non-Static Klasy i Obiekty(część 3).AssemblyInfoInputs.cache
+D:\C# kursy\Static vs Non-Static Klasy i Obiekty(część 3)\obj\Debug\net5.0\Static vs Non-Static Klasy i Obiekty(część 3).AssemblyInfo.cs
+D:\C# kursy\Static vs Non-Static Klasy i Obiekty(część 3)\obj\Debug\net5.0\Static vs Non-Static Klasy i Obiekty(część 3).csproj.CoreCompileInputs.cache
+D:\C# kursy\Static vs Non-Static Klasy i Obiekty(część 3)\obj\Debug\net5.0\Static vs Non-Static Klasy i Obiekty(część 3).dll
+D:\C# kursy\Static vs Non-Static Klasy i Obiekty(część 3)\obj\Debug\net5.0\ref\Static vs Non-Static Klasy i Obiekty(część 3).dll
+D:\C# kursy\Static vs Non-Static Klasy i Obiekty(część 3)\obj\Debug\net5.0\Static vs Non-Static Klasy i Obiekty(część 3).pdb
+D:\C# kursy\Static vs Non-Static Klasy i Obiekty(część 3)\obj\Debug\net5.0\Static vs Non-Static Klasy i Obiekty(część 3).genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Static vs Non-Static Klasy i Obiekty(część 3)/1.0.0": {
+        "runtime": {
+          "Static vs Non-Static Klasy i Obiekty(część 3).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Static vs Non-Static Klasy i Obiekty(część 3)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
