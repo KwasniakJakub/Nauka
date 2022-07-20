@@ -1,0 +1,16 @@
+D:\C# kursy\Dziedziczenie\bin\Debug\net5.0\Dziedziczenie.exe
+D:\C# kursy\Dziedziczenie\bin\Debug\net5.0\Dziedziczenie.deps.json
+D:\C# kursy\Dziedziczenie\bin\Debug\net5.0\Dziedziczenie.runtimeconfig.json
+D:\C# kursy\Dziedziczenie\bin\Debug\net5.0\Dziedziczenie.runtimeconfig.dev.json
+D:\C# kursy\Dziedziczenie\bin\Debug\net5.0\Dziedziczenie.dll
+D:\C# kursy\Dziedziczenie\bin\Debug\net5.0\Dziedziczenie.pdb
+D:\C# kursy\Dziedziczenie\obj\Debug\net5.0\Dziedziczenie.csproj.AssemblyReference.cache
+D:\C# kursy\Dziedziczenie\obj\Debug\net5.0\Dziedziczenie.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# kursy\Dziedziczenie\obj\Debug\net5.0\Dziedziczenie.AssemblyInfoInputs.cache
+D:\C# kursy\Dziedziczenie\obj\Debug\net5.0\Dziedziczenie.AssemblyInfo.cs
+D:\C# kursy\Dziedziczenie\obj\Debug\net5.0\Dziedziczenie.csproj.CoreCompileInputs.cache
+D:\C# kursy\Dziedziczenie\obj\Debug\net5.0\Dziedziczenie.dll
+D:\C# kursy\Dziedziczenie\obj\Debug\net5.0\refint\Dziedziczenie.dll
+D:\C# kursy\Dziedziczenie\obj\Debug\net5.0\Dziedziczenie.pdb
+D:\C# kursy\Dziedziczenie\obj\Debug\net5.0\Dziedziczenie.genruntimeconfig.cache
+D:\C# kursy\Dziedziczenie\obj\Debug\net5.0\ref\Dziedziczenie.dll

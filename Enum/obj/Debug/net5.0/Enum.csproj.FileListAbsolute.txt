@@ -1,0 +1,16 @@
+D:\C# kursy\Enum\bin\Debug\net5.0\Enum.exe
+D:\C# kursy\Enum\bin\Debug\net5.0\Enum.deps.json
+D:\C# kursy\Enum\bin\Debug\net5.0\Enum.runtimeconfig.json
+D:\C# kursy\Enum\bin\Debug\net5.0\Enum.runtimeconfig.dev.json
+D:\C# kursy\Enum\bin\Debug\net5.0\Enum.dll
+D:\C# kursy\Enum\bin\Debug\net5.0\Enum.pdb
+D:\C# kursy\Enum\obj\Debug\net5.0\Enum.csproj.AssemblyReference.cache
+D:\C# kursy\Enum\obj\Debug\net5.0\Enum.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# kursy\Enum\obj\Debug\net5.0\Enum.AssemblyInfoInputs.cache
+D:\C# kursy\Enum\obj\Debug\net5.0\Enum.AssemblyInfo.cs
+D:\C# kursy\Enum\obj\Debug\net5.0\Enum.csproj.CoreCompileInputs.cache
+D:\C# kursy\Enum\obj\Debug\net5.0\Enum.dll
+D:\C# kursy\Enum\obj\Debug\net5.0\refint\Enum.dll
+D:\C# kursy\Enum\obj\Debug\net5.0\Enum.pdb
+D:\C# kursy\Enum\obj\Debug\net5.0\Enum.genruntimeconfig.cache
+D:\C# kursy\Enum\obj\Debug\net5.0\ref\Enum.dll
