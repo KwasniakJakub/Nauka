@@ -1,0 +1,16 @@
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Instrukcje skoku\bin\Debug\net5.0\Instrukcje skoku.exe
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Instrukcje skoku\bin\Debug\net5.0\Instrukcje skoku.deps.json
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Instrukcje skoku\bin\Debug\net5.0\Instrukcje skoku.runtimeconfig.json
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Instrukcje skoku\bin\Debug\net5.0\Instrukcje skoku.runtimeconfig.dev.json
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Instrukcje skoku\bin\Debug\net5.0\Instrukcje skoku.dll
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Instrukcje skoku\bin\Debug\net5.0\ref\Instrukcje skoku.dll
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Instrukcje skoku\bin\Debug\net5.0\Instrukcje skoku.pdb
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Instrukcje skoku\obj\Debug\net5.0\Instrukcje skoku.csproj.AssemblyReference.cache
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Instrukcje skoku\obj\Debug\net5.0\Instrukcje skoku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Instrukcje skoku\obj\Debug\net5.0\Instrukcje skoku.AssemblyInfoInputs.cache
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Instrukcje skoku\obj\Debug\net5.0\Instrukcje skoku.AssemblyInfo.cs
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Instrukcje skoku\obj\Debug\net5.0\Instrukcje skoku.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Instrukcje skoku\obj\Debug\net5.0\Instrukcje skoku.dll
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Instrukcje skoku\obj\Debug\net5.0\ref\Instrukcje skoku.dll
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Instrukcje skoku\obj\Debug\net5.0\Instrukcje skoku.pdb
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Instrukcje skoku\obj\Debug\net5.0\Instrukcje skoku.genruntimeconfig.cache
