@@ -1,0 +1,31 @@
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Konstruktory - Klasy i Obiekty2\bin\Debug\net5.0\Konstruktory - Klasy i Obiekty2.exe
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Konstruktory - Klasy i Obiekty2\bin\Debug\net5.0\Konstruktory - Klasy i Obiekty2.deps.json
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Konstruktory - Klasy i Obiekty2\bin\Debug\net5.0\Konstruktory - Klasy i Obiekty2.runtimeconfig.json
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Konstruktory - Klasy i Obiekty2\bin\Debug\net5.0\Konstruktory - Klasy i Obiekty2.runtimeconfig.dev.json
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Konstruktory - Klasy i Obiekty2\bin\Debug\net5.0\Konstruktory - Klasy i Obiekty2.dll
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Konstruktory - Klasy i Obiekty2\bin\Debug\net5.0\ref\Konstruktory - Klasy i Obiekty2.dll
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Konstruktory - Klasy i Obiekty2\bin\Debug\net5.0\Konstruktory - Klasy i Obiekty2.pdb
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Konstruktory - Klasy i Obiekty2\obj\Debug\net5.0\Konstruktory - Klasy i Obiekty2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Konstruktory - Klasy i Obiekty2\obj\Debug\net5.0\Konstruktory - Klasy i Obiekty2.AssemblyInfoInputs.cache
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Konstruktory - Klasy i Obiekty2\obj\Debug\net5.0\Konstruktory - Klasy i Obiekty2.AssemblyInfo.cs
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Konstruktory - Klasy i Obiekty2\obj\Debug\net5.0\Konstruktory - Klasy i Obiekty2.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Konstruktory - Klasy i Obiekty2\obj\Debug\net5.0\Konstruktory - Klasy i Obiekty2.dll
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Konstruktory - Klasy i Obiekty2\obj\Debug\net5.0\ref\Konstruktory - Klasy i Obiekty2.dll
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Konstruktory - Klasy i Obiekty2\obj\Debug\net5.0\Konstruktory - Klasy i Obiekty2.pdb
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Konstruktory - Klasy i Obiekty2\obj\Debug\net5.0\Konstruktory - Klasy i Obiekty2.genruntimeconfig.cache
+D:\C# kursy\Konstruktory - Klasy i Obiekty2\bin\Debug\net5.0\Konstruktory - Klasy i Obiekty2.exe
+D:\C# kursy\Konstruktory - Klasy i Obiekty2\bin\Debug\net5.0\Konstruktory - Klasy i Obiekty2.deps.json
+D:\C# kursy\Konstruktory - Klasy i Obiekty2\bin\Debug\net5.0\Konstruktory - Klasy i Obiekty2.runtimeconfig.json
+D:\C# kursy\Konstruktory - Klasy i Obiekty2\bin\Debug\net5.0\Konstruktory - Klasy i Obiekty2.runtimeconfig.dev.json
+D:\C# kursy\Konstruktory - Klasy i Obiekty2\bin\Debug\net5.0\Konstruktory - Klasy i Obiekty2.dll
+D:\C# kursy\Konstruktory - Klasy i Obiekty2\bin\Debug\net5.0\ref\Konstruktory - Klasy i Obiekty2.dll
+D:\C# kursy\Konstruktory - Klasy i Obiekty2\bin\Debug\net5.0\Konstruktory - Klasy i Obiekty2.pdb
+D:\C# kursy\Konstruktory - Klasy i Obiekty2\obj\Debug\net5.0\Konstruktory - Klasy i Obiekty2.csproj.AssemblyReference.cache
+D:\C# kursy\Konstruktory - Klasy i Obiekty2\obj\Debug\net5.0\Konstruktory - Klasy i Obiekty2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# kursy\Konstruktory - Klasy i Obiekty2\obj\Debug\net5.0\Konstruktory - Klasy i Obiekty2.AssemblyInfoInputs.cache
+D:\C# kursy\Konstruktory - Klasy i Obiekty2\obj\Debug\net5.0\Konstruktory - Klasy i Obiekty2.AssemblyInfo.cs
+D:\C# kursy\Konstruktory - Klasy i Obiekty2\obj\Debug\net5.0\Konstruktory - Klasy i Obiekty2.csproj.CoreCompileInputs.cache
+D:\C# kursy\Konstruktory - Klasy i Obiekty2\obj\Debug\net5.0\Konstruktory - Klasy i Obiekty2.dll
+D:\C# kursy\Konstruktory - Klasy i Obiekty2\obj\Debug\net5.0\ref\Konstruktory - Klasy i Obiekty2.dll
+D:\C# kursy\Konstruktory - Klasy i Obiekty2\obj\Debug\net5.0\Konstruktory - Klasy i Obiekty2.pdb
+D:\C# kursy\Konstruktory - Klasy i Obiekty2\obj\Debug\net5.0\Konstruktory - Klasy i Obiekty2.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Konwersja typów, rzutowanie, komentarze i inne 1\bin\Debug\net6.0\Konwersja typów, rzutowanie, komentarze i inne 1.exe
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Konwersja typów, rzutowanie, komentarze i inne 1\bin\Debug\net6.0\Konwersja typów, rzutowanie, komentarze i inne 1.deps.json
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Konwersja typów, rzutowanie, komentarze i inne 1\bin\Debug\net6.0\Konwersja typów, rzutowanie, komentarze i inne 1.runtimeconfig.json
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Konwersja typów, rzutowanie, komentarze i inne 1\bin\Debug\net6.0\Konwersja typów, rzutowanie, komentarze i inne 1.dll
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Konwersja typów, rzutowanie, komentarze i inne 1\bin\Debug\net6.0\ref\Konwersja typów, rzutowanie, komentarze i inne 1.dll
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Konwersja typów, rzutowanie, komentarze i inne 1\bin\Debug\net6.0\Konwersja typów, rzutowanie, komentarze i inne 1.pdb
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Konwersja typów, rzutowanie, komentarze i inne 1\obj\Debug\net6.0\Konwersja typów, rzutowanie, komentarze i inne 1.csproj.AssemblyReference.cache
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Konwersja typów, rzutowanie, komentarze i inne 1\obj\Debug\net6.0\Konwersja typów, rzutowanie, komentarze i inne 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Konwersja typów, rzutowanie, komentarze i inne 1\obj\Debug\net6.0\Konwersja typów, rzutowanie, komentarze i inne 1.AssemblyInfoInputs.cache
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Konwersja typów, rzutowanie, komentarze i inne 1\obj\Debug\net6.0\Konwersja typów, rzutowanie, komentarze i inne 1.AssemblyInfo.cs
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Konwersja typów, rzutowanie, komentarze i inne 1\obj\Debug\net6.0\Konwersja typów, rzutowanie, komentarze i inne 1.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Konwersja typów, rzutowanie, komentarze i inne 1\obj\Debug\net6.0\Konwersja typów, rzutowanie, komentarze i inne 1.dll
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Konwersja typów, rzutowanie, komentarze i inne 1\obj\Debug\net6.0\ref\Konwersja typów, rzutowanie, komentarze i inne 1.dll
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Konwersja typów, rzutowanie, komentarze i inne 1\obj\Debug\net6.0\Konwersja typów, rzutowanie, komentarze i inne 1.pdb
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Konwersja typów, rzutowanie, komentarze i inne 1\obj\Debug\net6.0\Konwersja typów, rzutowanie, komentarze i inne 1.genruntimeconfig.cache

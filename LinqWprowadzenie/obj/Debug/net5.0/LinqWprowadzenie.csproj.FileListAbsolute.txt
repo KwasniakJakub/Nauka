@@ -1,0 +1,16 @@
+D:\C# kursy\LinqWprowadzenie\bin\Debug\net5.0\LinqWprowadzenie.exe
+D:\C# kursy\LinqWprowadzenie\bin\Debug\net5.0\LinqWprowadzenie.deps.json
+D:\C# kursy\LinqWprowadzenie\bin\Debug\net5.0\LinqWprowadzenie.runtimeconfig.json
+D:\C# kursy\LinqWprowadzenie\bin\Debug\net5.0\LinqWprowadzenie.runtimeconfig.dev.json
+D:\C# kursy\LinqWprowadzenie\bin\Debug\net5.0\LinqWprowadzenie.dll
+D:\C# kursy\LinqWprowadzenie\bin\Debug\net5.0\LinqWprowadzenie.pdb
+D:\C# kursy\LinqWprowadzenie\obj\Debug\net5.0\LinqWprowadzenie.csproj.AssemblyReference.cache
+D:\C# kursy\LinqWprowadzenie\obj\Debug\net5.0\LinqWprowadzenie.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# kursy\LinqWprowadzenie\obj\Debug\net5.0\LinqWprowadzenie.AssemblyInfoInputs.cache
+D:\C# kursy\LinqWprowadzenie\obj\Debug\net5.0\LinqWprowadzenie.AssemblyInfo.cs
+D:\C# kursy\LinqWprowadzenie\obj\Debug\net5.0\LinqWprowadzenie.csproj.CoreCompileInputs.cache
+D:\C# kursy\LinqWprowadzenie\obj\Debug\net5.0\LinqWprowadzenie.dll
+D:\C# kursy\LinqWprowadzenie\obj\Debug\net5.0\refint\LinqWprowadzenie.dll
+D:\C# kursy\LinqWprowadzenie\obj\Debug\net5.0\LinqWprowadzenie.pdb
+D:\C# kursy\LinqWprowadzenie\obj\Debug\net5.0\LinqWprowadzenie.genruntimeconfig.cache
+D:\C# kursy\LinqWprowadzenie\obj\Debug\net5.0\ref\LinqWprowadzenie.dll
