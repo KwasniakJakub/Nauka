@@ -1,0 +1,16 @@
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Pętle while, do while oraz for\bin\Debug\net5.0\Pętle while, do while oraz for.exe
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Pętle while, do while oraz for\bin\Debug\net5.0\Pętle while, do while oraz for.deps.json
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Pętle while, do while oraz for\bin\Debug\net5.0\Pętle while, do while oraz for.runtimeconfig.json
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Pętle while, do while oraz for\bin\Debug\net5.0\Pętle while, do while oraz for.runtimeconfig.dev.json
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Pętle while, do while oraz for\bin\Debug\net5.0\Pętle while, do while oraz for.dll
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Pętle while, do while oraz for\bin\Debug\net5.0\ref\Pętle while, do while oraz for.dll
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Pętle while, do while oraz for\bin\Debug\net5.0\Pętle while, do while oraz for.pdb
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Pętle while, do while oraz for\obj\Debug\net5.0\Pętle while, do while oraz for.csproj.AssemblyReference.cache
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Pętle while, do while oraz for\obj\Debug\net5.0\Pętle while, do while oraz for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Pętle while, do while oraz for\obj\Debug\net5.0\Pętle while, do while oraz for.AssemblyInfoInputs.cache
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Pętle while, do while oraz for\obj\Debug\net5.0\Pętle while, do while oraz for.AssemblyInfo.cs
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Pętle while, do while oraz for\obj\Debug\net5.0\Pętle while, do while oraz for.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Pętle while, do while oraz for\obj\Debug\net5.0\Pętle while, do while oraz for.dll
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Pętle while, do while oraz for\obj\Debug\net5.0\ref\Pętle while, do while oraz for.dll
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Pętle while, do while oraz for\obj\Debug\net5.0\Pętle while, do while oraz for.pdb
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Pętle while, do while oraz for\obj\Debug\net5.0\Pętle while, do while oraz for.genruntimeconfig.cache

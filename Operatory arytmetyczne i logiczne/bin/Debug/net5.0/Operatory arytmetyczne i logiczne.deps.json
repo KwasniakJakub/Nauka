@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Operatory arytmetyczne i logiczne/1.0.0": {
+        "runtime": {
+          "Operatory arytmetyczne i logiczne.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Operatory arytmetyczne i logiczne/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

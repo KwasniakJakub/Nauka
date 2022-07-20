@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Pętle while, do while oraz for/1.0.0": {
+        "runtime": {
+          "Pętle while, do while oraz for.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pętle while, do while oraz for/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

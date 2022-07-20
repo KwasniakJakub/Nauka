@@ -1,0 +1,16 @@
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Operatory arytmetyczne i logiczne\bin\Debug\net5.0\Operatory arytmetyczne i logiczne.exe
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Operatory arytmetyczne i logiczne\bin\Debug\net5.0\Operatory arytmetyczne i logiczne.deps.json
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Operatory arytmetyczne i logiczne\bin\Debug\net5.0\Operatory arytmetyczne i logiczne.runtimeconfig.json
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Operatory arytmetyczne i logiczne\bin\Debug\net5.0\Operatory arytmetyczne i logiczne.runtimeconfig.dev.json
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Operatory arytmetyczne i logiczne\bin\Debug\net5.0\Operatory arytmetyczne i logiczne.dll
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Operatory arytmetyczne i logiczne\bin\Debug\net5.0\ref\Operatory arytmetyczne i logiczne.dll
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Operatory arytmetyczne i logiczne\bin\Debug\net5.0\Operatory arytmetyczne i logiczne.pdb
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Operatory arytmetyczne i logiczne\obj\Debug\net5.0\Operatory arytmetyczne i logiczne.csproj.AssemblyReference.cache
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Operatory arytmetyczne i logiczne\obj\Debug\net5.0\Operatory arytmetyczne i logiczne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Operatory arytmetyczne i logiczne\obj\Debug\net5.0\Operatory arytmetyczne i logiczne.AssemblyInfoInputs.cache
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Operatory arytmetyczne i logiczne\obj\Debug\net5.0\Operatory arytmetyczne i logiczne.AssemblyInfo.cs
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Operatory arytmetyczne i logiczne\obj\Debug\net5.0\Operatory arytmetyczne i logiczne.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Operatory arytmetyczne i logiczne\obj\Debug\net5.0\Operatory arytmetyczne i logiczne.dll
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Operatory arytmetyczne i logiczne\obj\Debug\net5.0\ref\Operatory arytmetyczne i logiczne.dll
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Operatory arytmetyczne i logiczne\obj\Debug\net5.0\Operatory arytmetyczne i logiczne.pdb
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Operatory arytmetyczne i logiczne\obj\Debug\net5.0\Operatory arytmetyczne i logiczne.genruntimeconfig.cache
