@@ -1,0 +1,16 @@
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Klasy i Obiekty 1\bin\Debug\net5.0\Klasy i Obiekty 1.exe
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Klasy i Obiekty 1\bin\Debug\net5.0\Klasy i Obiekty 1.deps.json
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Klasy i Obiekty 1\bin\Debug\net5.0\Klasy i Obiekty 1.runtimeconfig.json
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Klasy i Obiekty 1\bin\Debug\net5.0\Klasy i Obiekty 1.runtimeconfig.dev.json
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Klasy i Obiekty 1\bin\Debug\net5.0\Klasy i Obiekty 1.dll
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Klasy i Obiekty 1\bin\Debug\net5.0\ref\Klasy i Obiekty 1.dll
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Klasy i Obiekty 1\bin\Debug\net5.0\Klasy i Obiekty 1.pdb
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Klasy i Obiekty 1\obj\Debug\net5.0\Klasy i Obiekty 1.csproj.AssemblyReference.cache
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Klasy i Obiekty 1\obj\Debug\net5.0\Klasy i Obiekty 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Klasy i Obiekty 1\obj\Debug\net5.0\Klasy i Obiekty 1.AssemblyInfoInputs.cache
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Klasy i Obiekty 1\obj\Debug\net5.0\Klasy i Obiekty 1.AssemblyInfo.cs
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Klasy i Obiekty 1\obj\Debug\net5.0\Klasy i Obiekty 1.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Klasy i Obiekty 1\obj\Debug\net5.0\Klasy i Obiekty 1.dll
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Klasy i Obiekty 1\obj\Debug\net5.0\ref\Klasy i Obiekty 1.dll
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Klasy i Obiekty 1\obj\Debug\net5.0\Klasy i Obiekty 1.pdb
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Klasy i Obiekty 1\obj\Debug\net5.0\Klasy i Obiekty 1.genruntimeconfig.cache
