@@ -1,0 +1,15 @@
+D:\C# kursy\Właściwości - Getter i Setter\bin\Debug\net5.0\Właściwości - Getter i Setter.exe
+D:\C# kursy\Właściwości - Getter i Setter\bin\Debug\net5.0\Właściwości - Getter i Setter.deps.json
+D:\C# kursy\Właściwości - Getter i Setter\bin\Debug\net5.0\Właściwości - Getter i Setter.runtimeconfig.json
+D:\C# kursy\Właściwości - Getter i Setter\bin\Debug\net5.0\Właściwości - Getter i Setter.runtimeconfig.dev.json
+D:\C# kursy\Właściwości - Getter i Setter\bin\Debug\net5.0\Właściwości - Getter i Setter.dll
+D:\C# kursy\Właściwości - Getter i Setter\bin\Debug\net5.0\ref\Właściwości - Getter i Setter.dll
+D:\C# kursy\Właściwości - Getter i Setter\bin\Debug\net5.0\Właściwości - Getter i Setter.pdb
+D:\C# kursy\Właściwości - Getter i Setter\obj\Debug\net5.0\Właściwości - Getter i Setter.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# kursy\Właściwości - Getter i Setter\obj\Debug\net5.0\Właściwości - Getter i Setter.AssemblyInfoInputs.cache
+D:\C# kursy\Właściwości - Getter i Setter\obj\Debug\net5.0\Właściwości - Getter i Setter.AssemblyInfo.cs
+D:\C# kursy\Właściwości - Getter i Setter\obj\Debug\net5.0\Właściwości - Getter i Setter.csproj.CoreCompileInputs.cache
+D:\C# kursy\Właściwości - Getter i Setter\obj\Debug\net5.0\Właściwości - Getter i Setter.dll
+D:\C# kursy\Właściwości - Getter i Setter\obj\Debug\net5.0\ref\Właściwości - Getter i Setter.dll
+D:\C# kursy\Właściwości - Getter i Setter\obj\Debug\net5.0\Właściwości - Getter i Setter.pdb
+D:\C# kursy\Właściwości - Getter i Setter\obj\Debug\net5.0\Właściwości - Getter i Setter.genruntimeconfig.cache

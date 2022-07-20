@@ -1,0 +1,16 @@
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Zmienne stałe i podstawowe typy danych\bin\Debug\net5.0\Zmienne stałe i podstawowe typy danych.exe
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Zmienne stałe i podstawowe typy danych\bin\Debug\net5.0\Zmienne stałe i podstawowe typy danych.deps.json
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Zmienne stałe i podstawowe typy danych\bin\Debug\net5.0\Zmienne stałe i podstawowe typy danych.runtimeconfig.json
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Zmienne stałe i podstawowe typy danych\bin\Debug\net5.0\Zmienne stałe i podstawowe typy danych.runtimeconfig.dev.json
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Zmienne stałe i podstawowe typy danych\bin\Debug\net5.0\Zmienne stałe i podstawowe typy danych.dll
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Zmienne stałe i podstawowe typy danych\bin\Debug\net5.0\ref\Zmienne stałe i podstawowe typy danych.dll
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Zmienne stałe i podstawowe typy danych\bin\Debug\net5.0\Zmienne stałe i podstawowe typy danych.pdb
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Zmienne stałe i podstawowe typy danych\obj\Debug\net5.0\Zmienne stałe i podstawowe typy danych.csproj.AssemblyReference.cache
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Zmienne stałe i podstawowe typy danych\obj\Debug\net5.0\Zmienne stałe i podstawowe typy danych.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Zmienne stałe i podstawowe typy danych\obj\Debug\net5.0\Zmienne stałe i podstawowe typy danych.AssemblyInfoInputs.cache
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Zmienne stałe i podstawowe typy danych\obj\Debug\net5.0\Zmienne stałe i podstawowe typy danych.AssemblyInfo.cs
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Zmienne stałe i podstawowe typy danych\obj\Debug\net5.0\Zmienne stałe i podstawowe typy danych.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Zmienne stałe i podstawowe typy danych\obj\Debug\net5.0\Zmienne stałe i podstawowe typy danych.dll
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Zmienne stałe i podstawowe typy danych\obj\Debug\net5.0\ref\Zmienne stałe i podstawowe typy danych.dll
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Zmienne stałe i podstawowe typy danych\obj\Debug\net5.0\Zmienne stałe i podstawowe typy danych.pdb
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Zmienne stałe i podstawowe typy danych\obj\Debug\net5.0\Zmienne stałe i podstawowe typy danych.genruntimeconfig.cache

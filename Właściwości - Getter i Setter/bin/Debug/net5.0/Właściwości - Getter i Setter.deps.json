@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Właściwości - Getter i Setter/1.0.0": {
+        "runtime": {
+          "Właściwości - Getter i Setter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Właściwości - Getter i Setter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
