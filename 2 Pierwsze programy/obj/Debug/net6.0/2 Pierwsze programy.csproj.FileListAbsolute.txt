@@ -1,0 +1,14 @@
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\2 Pierwsze programy\obj\Debug\net6.0\2 Pierwsze programy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\2 Pierwsze programy\obj\Debug\net6.0\2 Pierwsze programy.AssemblyInfoInputs.cache
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\2 Pierwsze programy\obj\Debug\net6.0\2 Pierwsze programy.AssemblyInfo.cs
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\2 Pierwsze programy\obj\Debug\net6.0\2 Pierwsze programy.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\2 Pierwsze programy\bin\Debug\net6.0\2 Pierwsze programy.exe
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\2 Pierwsze programy\bin\Debug\net6.0\2 Pierwsze programy.deps.json
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\2 Pierwsze programy\bin\Debug\net6.0\2 Pierwsze programy.runtimeconfig.json
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\2 Pierwsze programy\bin\Debug\net6.0\2 Pierwsze programy.dll
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\2 Pierwsze programy\bin\Debug\net6.0\ref\2 Pierwsze programy.dll
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\2 Pierwsze programy\bin\Debug\net6.0\2 Pierwsze programy.pdb
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\2 Pierwsze programy\obj\Debug\net6.0\2 Pierwsze programy.dll
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\2 Pierwsze programy\obj\Debug\net6.0\ref\2 Pierwsze programy.dll
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\2 Pierwsze programy\obj\Debug\net6.0\2 Pierwsze programy.pdb
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\2 Pierwsze programy\obj\Debug\net6.0\2 Pierwsze programy.genruntimeconfig.cache

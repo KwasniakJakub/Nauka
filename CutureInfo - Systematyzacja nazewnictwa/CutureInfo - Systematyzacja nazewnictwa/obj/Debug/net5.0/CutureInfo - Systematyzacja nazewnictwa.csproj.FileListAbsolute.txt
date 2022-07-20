@@ -1,0 +1,16 @@
+D:\C# kursy\CutureInfo - Systematyzacja nazewnictwa\CutureInfo - Systematyzacja nazewnictwa\bin\Debug\net5.0\CutureInfo - Systematyzacja nazewnictwa.exe
+D:\C# kursy\CutureInfo - Systematyzacja nazewnictwa\CutureInfo - Systematyzacja nazewnictwa\bin\Debug\net5.0\CutureInfo - Systematyzacja nazewnictwa.deps.json
+D:\C# kursy\CutureInfo - Systematyzacja nazewnictwa\CutureInfo - Systematyzacja nazewnictwa\bin\Debug\net5.0\CutureInfo - Systematyzacja nazewnictwa.runtimeconfig.json
+D:\C# kursy\CutureInfo - Systematyzacja nazewnictwa\CutureInfo - Systematyzacja nazewnictwa\bin\Debug\net5.0\CutureInfo - Systematyzacja nazewnictwa.runtimeconfig.dev.json
+D:\C# kursy\CutureInfo - Systematyzacja nazewnictwa\CutureInfo - Systematyzacja nazewnictwa\bin\Debug\net5.0\CutureInfo - Systematyzacja nazewnictwa.dll
+D:\C# kursy\CutureInfo - Systematyzacja nazewnictwa\CutureInfo - Systematyzacja nazewnictwa\bin\Debug\net5.0\CutureInfo - Systematyzacja nazewnictwa.pdb
+D:\C# kursy\CutureInfo - Systematyzacja nazewnictwa\CutureInfo - Systematyzacja nazewnictwa\obj\Debug\net5.0\CutureInfo - Systematyzacja nazewnictwa.csproj.AssemblyReference.cache
+D:\C# kursy\CutureInfo - Systematyzacja nazewnictwa\CutureInfo - Systematyzacja nazewnictwa\obj\Debug\net5.0\CutureInfo - Systematyzacja nazewnictwa.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# kursy\CutureInfo - Systematyzacja nazewnictwa\CutureInfo - Systematyzacja nazewnictwa\obj\Debug\net5.0\CutureInfo - Systematyzacja nazewnictwa.AssemblyInfoInputs.cache
+D:\C# kursy\CutureInfo - Systematyzacja nazewnictwa\CutureInfo - Systematyzacja nazewnictwa\obj\Debug\net5.0\CutureInfo - Systematyzacja nazewnictwa.AssemblyInfo.cs
+D:\C# kursy\CutureInfo - Systematyzacja nazewnictwa\CutureInfo - Systematyzacja nazewnictwa\obj\Debug\net5.0\CutureInfo - Systematyzacja nazewnictwa.csproj.CoreCompileInputs.cache
+D:\C# kursy\CutureInfo - Systematyzacja nazewnictwa\CutureInfo - Systematyzacja nazewnictwa\obj\Debug\net5.0\CutureInfo - Systematyzacja nazewnictwa.dll
+D:\C# kursy\CutureInfo - Systematyzacja nazewnictwa\CutureInfo - Systematyzacja nazewnictwa\obj\Debug\net5.0\refint\CutureInfo - Systematyzacja nazewnictwa.dll
+D:\C# kursy\CutureInfo - Systematyzacja nazewnictwa\CutureInfo - Systematyzacja nazewnictwa\obj\Debug\net5.0\CutureInfo - Systematyzacja nazewnictwa.pdb
+D:\C# kursy\CutureInfo - Systematyzacja nazewnictwa\CutureInfo - Systematyzacja nazewnictwa\obj\Debug\net5.0\CutureInfo - Systematyzacja nazewnictwa.genruntimeconfig.cache
+D:\C# kursy\CutureInfo - Systematyzacja nazewnictwa\CutureInfo - Systematyzacja nazewnictwa\obj\Debug\net5.0\ref\CutureInfo - Systematyzacja nazewnictwa.dll

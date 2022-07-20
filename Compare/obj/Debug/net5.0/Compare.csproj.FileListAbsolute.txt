@@ -1,0 +1,16 @@
+D:\C# kursy\Compare\bin\Debug\net5.0\Compare.exe
+D:\C# kursy\Compare\bin\Debug\net5.0\Compare.deps.json
+D:\C# kursy\Compare\bin\Debug\net5.0\Compare.runtimeconfig.json
+D:\C# kursy\Compare\bin\Debug\net5.0\Compare.runtimeconfig.dev.json
+D:\C# kursy\Compare\bin\Debug\net5.0\Compare.dll
+D:\C# kursy\Compare\bin\Debug\net5.0\Compare.pdb
+D:\C# kursy\Compare\obj\Debug\net5.0\Compare.csproj.AssemblyReference.cache
+D:\C# kursy\Compare\obj\Debug\net5.0\Compare.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# kursy\Compare\obj\Debug\net5.0\Compare.AssemblyInfoInputs.cache
+D:\C# kursy\Compare\obj\Debug\net5.0\Compare.AssemblyInfo.cs
+D:\C# kursy\Compare\obj\Debug\net5.0\Compare.csproj.CoreCompileInputs.cache
+D:\C# kursy\Compare\obj\Debug\net5.0\Compare.dll
+D:\C# kursy\Compare\obj\Debug\net5.0\refint\Compare.dll
+D:\C# kursy\Compare\obj\Debug\net5.0\Compare.pdb
+D:\C# kursy\Compare\obj\Debug\net5.0\Compare.genruntimeconfig.cache
+D:\C# kursy\Compare\obj\Debug\net5.0\ref\Compare.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CutureInfo - Systematyzacja nazewnictwa", "CutureInfo - Systematyzacja nazewnictwa\CutureInfo - Systematyzacja nazewnictwa.csproj", "{32DA9C35-F7E7-44CE-8EEC-FC7F5661010B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32DA9C35-F7E7-44CE-8EEC-FC7F5661010B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32DA9C35-F7E7-44CE-8EEC-FC7F5661010B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32DA9C35-F7E7-44CE-8EEC-FC7F5661010B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32DA9C35-F7E7-44CE-8EEC-FC7F5661010B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3DB46FA-390D-4A9D-A9C1-D19E63DECC70}
+	EndGlobalSection
+EndGlobal
