@@ -1,0 +1,15 @@
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Instrukcje switch\bin\Debug\net5.0\Instrukcje switch.exe
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Instrukcje switch\bin\Debug\net5.0\Instrukcje switch.deps.json
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Instrukcje switch\bin\Debug\net5.0\Instrukcje switch.runtimeconfig.json
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Instrukcje switch\bin\Debug\net5.0\Instrukcje switch.runtimeconfig.dev.json
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Instrukcje switch\bin\Debug\net5.0\Instrukcje switch.dll
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Instrukcje switch\bin\Debug\net5.0\ref\Instrukcje switch.dll
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Instrukcje switch\bin\Debug\net5.0\Instrukcje switch.pdb
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Instrukcje switch\obj\Debug\net5.0\Instrukcje switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Instrukcje switch\obj\Debug\net5.0\Instrukcje switch.AssemblyInfoInputs.cache
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Instrukcje switch\obj\Debug\net5.0\Instrukcje switch.AssemblyInfo.cs
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Instrukcje switch\obj\Debug\net5.0\Instrukcje switch.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Instrukcje switch\obj\Debug\net5.0\Instrukcje switch.dll
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Instrukcje switch\obj\Debug\net5.0\ref\Instrukcje switch.dll
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Instrukcje switch\obj\Debug\net5.0\Instrukcje switch.pdb
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Instrukcje switch\obj\Debug\net5.0\Instrukcje switch.genruntimeconfig.cache

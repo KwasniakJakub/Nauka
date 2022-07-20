@@ -1,0 +1,16 @@
+D:\C# kursy\Is i As\bin\Debug\net5.0\Is i As.exe
+D:\C# kursy\Is i As\bin\Debug\net5.0\Is i As.deps.json
+D:\C# kursy\Is i As\bin\Debug\net5.0\Is i As.runtimeconfig.json
+D:\C# kursy\Is i As\bin\Debug\net5.0\Is i As.runtimeconfig.dev.json
+D:\C# kursy\Is i As\bin\Debug\net5.0\Is i As.dll
+D:\C# kursy\Is i As\bin\Debug\net5.0\Is i As.pdb
+D:\C# kursy\Is i As\obj\Debug\net5.0\Is i As.csproj.AssemblyReference.cache
+D:\C# kursy\Is i As\obj\Debug\net5.0\Is i As.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# kursy\Is i As\obj\Debug\net5.0\Is i As.AssemblyInfoInputs.cache
+D:\C# kursy\Is i As\obj\Debug\net5.0\Is i As.AssemblyInfo.cs
+D:\C# kursy\Is i As\obj\Debug\net5.0\Is i As.csproj.CoreCompileInputs.cache
+D:\C# kursy\Is i As\obj\Debug\net5.0\Is i As.dll
+D:\C# kursy\Is i As\obj\Debug\net5.0\refint\Is i As.dll
+D:\C# kursy\Is i As\obj\Debug\net5.0\Is i As.pdb
+D:\C# kursy\Is i As\obj\Debug\net5.0\Is i As.genruntimeconfig.cache
+D:\C# kursy\Is i As\obj\Debug\net5.0\ref\Is i As.dll

@@ -1,0 +1,16 @@
+D:\C# kursy\Interfejsy\bin\Debug\net5.0\Interfejsy.exe
+D:\C# kursy\Interfejsy\bin\Debug\net5.0\Interfejsy.deps.json
+D:\C# kursy\Interfejsy\bin\Debug\net5.0\Interfejsy.runtimeconfig.json
+D:\C# kursy\Interfejsy\bin\Debug\net5.0\Interfejsy.runtimeconfig.dev.json
+D:\C# kursy\Interfejsy\bin\Debug\net5.0\Interfejsy.dll
+D:\C# kursy\Interfejsy\bin\Debug\net5.0\Interfejsy.pdb
+D:\C# kursy\Interfejsy\obj\Debug\net5.0\Interfejsy.csproj.AssemblyReference.cache
+D:\C# kursy\Interfejsy\obj\Debug\net5.0\Interfejsy.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# kursy\Interfejsy\obj\Debug\net5.0\Interfejsy.AssemblyInfoInputs.cache
+D:\C# kursy\Interfejsy\obj\Debug\net5.0\Interfejsy.AssemblyInfo.cs
+D:\C# kursy\Interfejsy\obj\Debug\net5.0\Interfejsy.csproj.CoreCompileInputs.cache
+D:\C# kursy\Interfejsy\obj\Debug\net5.0\Interfejsy.dll
+D:\C# kursy\Interfejsy\obj\Debug\net5.0\refint\Interfejsy.dll
+D:\C# kursy\Interfejsy\obj\Debug\net5.0\Interfejsy.pdb
+D:\C# kursy\Interfejsy\obj\Debug\net5.0\Interfejsy.genruntimeconfig.cache
+D:\C# kursy\Interfejsy\obj\Debug\net5.0\ref\Interfejsy.dll

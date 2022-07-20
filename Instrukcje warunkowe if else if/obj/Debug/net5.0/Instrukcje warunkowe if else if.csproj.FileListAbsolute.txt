@@ -1,0 +1,16 @@
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Instrukcje warunkowe if else if\bin\Debug\net5.0\Instrukcje warunkowe if else if.exe
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Instrukcje warunkowe if else if\bin\Debug\net5.0\Instrukcje warunkowe if else if.deps.json
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Instrukcje warunkowe if else if\bin\Debug\net5.0\Instrukcje warunkowe if else if.runtimeconfig.json
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Instrukcje warunkowe if else if\bin\Debug\net5.0\Instrukcje warunkowe if else if.runtimeconfig.dev.json
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Instrukcje warunkowe if else if\bin\Debug\net5.0\Instrukcje warunkowe if else if.dll
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Instrukcje warunkowe if else if\bin\Debug\net5.0\ref\Instrukcje warunkowe if else if.dll
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Instrukcje warunkowe if else if\bin\Debug\net5.0\Instrukcje warunkowe if else if.pdb
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Instrukcje warunkowe if else if\obj\Debug\net5.0\Instrukcje warunkowe if else if.csproj.AssemblyReference.cache
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Instrukcje warunkowe if else if\obj\Debug\net5.0\Instrukcje warunkowe if else if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Instrukcje warunkowe if else if\obj\Debug\net5.0\Instrukcje warunkowe if else if.AssemblyInfoInputs.cache
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Instrukcje warunkowe if else if\obj\Debug\net5.0\Instrukcje warunkowe if else if.AssemblyInfo.cs
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Instrukcje warunkowe if else if\obj\Debug\net5.0\Instrukcje warunkowe if else if.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Instrukcje warunkowe if else if\obj\Debug\net5.0\Instrukcje warunkowe if else if.dll
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Instrukcje warunkowe if else if\obj\Debug\net5.0\ref\Instrukcje warunkowe if else if.dll
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Instrukcje warunkowe if else if\obj\Debug\net5.0\Instrukcje warunkowe if else if.pdb
+C:\Users\Jakub\Desktop\NAUKA I STUDIA\C# kursy\Instrukcje warunkowe if else if\obj\Debug\net5.0\Instrukcje warunkowe if else if.genruntimeconfig.cache
