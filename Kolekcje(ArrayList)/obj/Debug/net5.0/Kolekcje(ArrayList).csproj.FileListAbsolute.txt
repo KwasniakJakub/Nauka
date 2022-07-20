@@ -1,0 +1,16 @@
+D:\C# kursy\Kolekcje(ArrayList)\bin\Debug\net5.0\Kolekcje(ArrayList).exe
+D:\C# kursy\Kolekcje(ArrayList)\bin\Debug\net5.0\Kolekcje(ArrayList).deps.json
+D:\C# kursy\Kolekcje(ArrayList)\bin\Debug\net5.0\Kolekcje(ArrayList).runtimeconfig.json
+D:\C# kursy\Kolekcje(ArrayList)\bin\Debug\net5.0\Kolekcje(ArrayList).runtimeconfig.dev.json
+D:\C# kursy\Kolekcje(ArrayList)\bin\Debug\net5.0\Kolekcje(ArrayList).dll
+D:\C# kursy\Kolekcje(ArrayList)\bin\Debug\net5.0\Kolekcje(ArrayList).pdb
+D:\C# kursy\Kolekcje(ArrayList)\obj\Debug\net5.0\Kolekcje(ArrayList).csproj.AssemblyReference.cache
+D:\C# kursy\Kolekcje(ArrayList)\obj\Debug\net5.0\Kolekcje(ArrayList).GeneratedMSBuildEditorConfig.editorconfig
+D:\C# kursy\Kolekcje(ArrayList)\obj\Debug\net5.0\Kolekcje(ArrayList).AssemblyInfoInputs.cache
+D:\C# kursy\Kolekcje(ArrayList)\obj\Debug\net5.0\Kolekcje(ArrayList).AssemblyInfo.cs
+D:\C# kursy\Kolekcje(ArrayList)\obj\Debug\net5.0\Kolekcje(ArrayList).csproj.CoreCompileInputs.cache
+D:\C# kursy\Kolekcje(ArrayList)\obj\Debug\net5.0\Kolekcje(ArrayList).dll
+D:\C# kursy\Kolekcje(ArrayList)\obj\Debug\net5.0\refint\Kolekcje(ArrayList).dll
+D:\C# kursy\Kolekcje(ArrayList)\obj\Debug\net5.0\Kolekcje(ArrayList).pdb
+D:\C# kursy\Kolekcje(ArrayList)\obj\Debug\net5.0\Kolekcje(ArrayList).genruntimeconfig.cache
+D:\C# kursy\Kolekcje(ArrayList)\obj\Debug\net5.0\ref\Kolekcje(ArrayList).dll

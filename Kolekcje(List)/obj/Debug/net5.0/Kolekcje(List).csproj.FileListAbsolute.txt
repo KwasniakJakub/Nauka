@@ -1,0 +1,16 @@
+D:\C# kursy\Kolekcje(List)\bin\Debug\net5.0\Kolekcje(List).exe
+D:\C# kursy\Kolekcje(List)\bin\Debug\net5.0\Kolekcje(List).deps.json
+D:\C# kursy\Kolekcje(List)\bin\Debug\net5.0\Kolekcje(List).runtimeconfig.json
+D:\C# kursy\Kolekcje(List)\bin\Debug\net5.0\Kolekcje(List).runtimeconfig.dev.json
+D:\C# kursy\Kolekcje(List)\bin\Debug\net5.0\Kolekcje(List).dll
+D:\C# kursy\Kolekcje(List)\bin\Debug\net5.0\Kolekcje(List).pdb
+D:\C# kursy\Kolekcje(List)\obj\Debug\net5.0\Kolekcje(List).csproj.AssemblyReference.cache
+D:\C# kursy\Kolekcje(List)\obj\Debug\net5.0\Kolekcje(List).GeneratedMSBuildEditorConfig.editorconfig
+D:\C# kursy\Kolekcje(List)\obj\Debug\net5.0\Kolekcje(List).AssemblyInfoInputs.cache
+D:\C# kursy\Kolekcje(List)\obj\Debug\net5.0\Kolekcje(List).AssemblyInfo.cs
+D:\C# kursy\Kolekcje(List)\obj\Debug\net5.0\Kolekcje(List).csproj.CoreCompileInputs.cache
+D:\C# kursy\Kolekcje(List)\obj\Debug\net5.0\Kolekcje(List).dll
+D:\C# kursy\Kolekcje(List)\obj\Debug\net5.0\refint\Kolekcje(List).dll
+D:\C# kursy\Kolekcje(List)\obj\Debug\net5.0\Kolekcje(List).pdb
+D:\C# kursy\Kolekcje(List)\obj\Debug\net5.0\Kolekcje(List).genruntimeconfig.cache
+D:\C# kursy\Kolekcje(List)\obj\Debug\net5.0\ref\Kolekcje(List).dll

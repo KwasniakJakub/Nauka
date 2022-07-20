@@ -1,0 +1,16 @@
+D:\C# kursy\Kolekcje(Dictionary)\bin\Debug\net5.0\Kolekcje(Dictionary).exe
+D:\C# kursy\Kolekcje(Dictionary)\bin\Debug\net5.0\Kolekcje(Dictionary).deps.json
+D:\C# kursy\Kolekcje(Dictionary)\bin\Debug\net5.0\Kolekcje(Dictionary).runtimeconfig.json
+D:\C# kursy\Kolekcje(Dictionary)\bin\Debug\net5.0\Kolekcje(Dictionary).runtimeconfig.dev.json
+D:\C# kursy\Kolekcje(Dictionary)\bin\Debug\net5.0\Kolekcje(Dictionary).dll
+D:\C# kursy\Kolekcje(Dictionary)\bin\Debug\net5.0\Kolekcje(Dictionary).pdb
+D:\C# kursy\Kolekcje(Dictionary)\obj\Debug\net5.0\Kolekcje(Dictionary).csproj.AssemblyReference.cache
+D:\C# kursy\Kolekcje(Dictionary)\obj\Debug\net5.0\Kolekcje(Dictionary).GeneratedMSBuildEditorConfig.editorconfig
+D:\C# kursy\Kolekcje(Dictionary)\obj\Debug\net5.0\Kolekcje(Dictionary).AssemblyInfoInputs.cache
+D:\C# kursy\Kolekcje(Dictionary)\obj\Debug\net5.0\Kolekcje(Dictionary).AssemblyInfo.cs
+D:\C# kursy\Kolekcje(Dictionary)\obj\Debug\net5.0\Kolekcje(Dictionary).csproj.CoreCompileInputs.cache
+D:\C# kursy\Kolekcje(Dictionary)\obj\Debug\net5.0\Kolekcje(Dictionary).dll
+D:\C# kursy\Kolekcje(Dictionary)\obj\Debug\net5.0\refint\Kolekcje(Dictionary).dll
+D:\C# kursy\Kolekcje(Dictionary)\obj\Debug\net5.0\Kolekcje(Dictionary).pdb
+D:\C# kursy\Kolekcje(Dictionary)\obj\Debug\net5.0\Kolekcje(Dictionary).genruntimeconfig.cache
+D:\C# kursy\Kolekcje(Dictionary)\obj\Debug\net5.0\ref\Kolekcje(Dictionary).dll
