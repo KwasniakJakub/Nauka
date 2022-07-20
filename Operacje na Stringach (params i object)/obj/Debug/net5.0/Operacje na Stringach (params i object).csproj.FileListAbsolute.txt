@@ -1,0 +1,16 @@
+D:\C# kursy\Operacje na Stringach (params i object)\bin\Debug\net5.0\Operacje na Stringach (params i object).exe
+D:\C# kursy\Operacje na Stringach (params i object)\bin\Debug\net5.0\Operacje na Stringach (params i object).deps.json
+D:\C# kursy\Operacje na Stringach (params i object)\bin\Debug\net5.0\Operacje na Stringach (params i object).runtimeconfig.json
+D:\C# kursy\Operacje na Stringach (params i object)\bin\Debug\net5.0\Operacje na Stringach (params i object).runtimeconfig.dev.json
+D:\C# kursy\Operacje na Stringach (params i object)\bin\Debug\net5.0\Operacje na Stringach (params i object).dll
+D:\C# kursy\Operacje na Stringach (params i object)\bin\Debug\net5.0\ref\Operacje na Stringach (params i object).dll
+D:\C# kursy\Operacje na Stringach (params i object)\bin\Debug\net5.0\Operacje na Stringach (params i object).pdb
+D:\C# kursy\Operacje na Stringach (params i object)\obj\Debug\net5.0\Operacje na Stringach (params i object).csproj.AssemblyReference.cache
+D:\C# kursy\Operacje na Stringach (params i object)\obj\Debug\net5.0\Operacje na Stringach (params i object).GeneratedMSBuildEditorConfig.editorconfig
+D:\C# kursy\Operacje na Stringach (params i object)\obj\Debug\net5.0\Operacje na Stringach (params i object).AssemblyInfoInputs.cache
+D:\C# kursy\Operacje na Stringach (params i object)\obj\Debug\net5.0\Operacje na Stringach (params i object).AssemblyInfo.cs
+D:\C# kursy\Operacje na Stringach (params i object)\obj\Debug\net5.0\Operacje na Stringach (params i object).csproj.CoreCompileInputs.cache
+D:\C# kursy\Operacje na Stringach (params i object)\obj\Debug\net5.0\Operacje na Stringach (params i object).dll
+D:\C# kursy\Operacje na Stringach (params i object)\obj\Debug\net5.0\ref\Operacje na Stringach (params i object).dll
+D:\C# kursy\Operacje na Stringach (params i object)\obj\Debug\net5.0\Operacje na Stringach (params i object).pdb
+D:\C# kursy\Operacje na Stringach (params i object)\obj\Debug\net5.0\Operacje na Stringach (params i object).genruntimeconfig.cache

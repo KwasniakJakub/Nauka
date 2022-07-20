@@ -1,0 +1,16 @@
+D:\C# kursy\Operacje na plikach (.txt)\bin\Debug\net5.0\Operacje na plikach (.txt).exe
+D:\C# kursy\Operacje na plikach (.txt)\bin\Debug\net5.0\Operacje na plikach (.txt).deps.json
+D:\C# kursy\Operacje na plikach (.txt)\bin\Debug\net5.0\Operacje na plikach (.txt).runtimeconfig.json
+D:\C# kursy\Operacje na plikach (.txt)\bin\Debug\net5.0\Operacje na plikach (.txt).runtimeconfig.dev.json
+D:\C# kursy\Operacje na plikach (.txt)\bin\Debug\net5.0\Operacje na plikach (.txt).dll
+D:\C# kursy\Operacje na plikach (.txt)\bin\Debug\net5.0\Operacje na plikach (.txt).pdb
+D:\C# kursy\Operacje na plikach (.txt)\obj\Debug\net5.0\Operacje na plikach (.txt).csproj.AssemblyReference.cache
+D:\C# kursy\Operacje na plikach (.txt)\obj\Debug\net5.0\Operacje na plikach (.txt).GeneratedMSBuildEditorConfig.editorconfig
+D:\C# kursy\Operacje na plikach (.txt)\obj\Debug\net5.0\Operacje na plikach (.txt).AssemblyInfoInputs.cache
+D:\C# kursy\Operacje na plikach (.txt)\obj\Debug\net5.0\Operacje na plikach (.txt).AssemblyInfo.cs
+D:\C# kursy\Operacje na plikach (.txt)\obj\Debug\net5.0\Operacje na plikach (.txt).csproj.CoreCompileInputs.cache
+D:\C# kursy\Operacje na plikach (.txt)\obj\Debug\net5.0\Operacje na plikach (.txt).dll
+D:\C# kursy\Operacje na plikach (.txt)\obj\Debug\net5.0\refint\Operacje na plikach (.txt).dll
+D:\C# kursy\Operacje na plikach (.txt)\obj\Debug\net5.0\Operacje na plikach (.txt).pdb
+D:\C# kursy\Operacje na plikach (.txt)\obj\Debug\net5.0\Operacje na plikach (.txt).genruntimeconfig.cache
+D:\C# kursy\Operacje na plikach (.txt)\obj\Debug\net5.0\ref\Operacje na plikach (.txt).dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Operacje na Stringach (params i object)/1.0.0": {
+        "runtime": {
+          "Operacje na Stringach (params i object).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Operacje na Stringach (params i object)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

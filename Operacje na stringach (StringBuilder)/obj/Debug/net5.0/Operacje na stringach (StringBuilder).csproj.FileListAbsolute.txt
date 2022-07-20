@@ -1,0 +1,16 @@
+D:\C# kursy\Operacje na stringach (StringBuilder)\bin\Debug\net5.0\Operacje na stringach (StringBuilder).exe
+D:\C# kursy\Operacje na stringach (StringBuilder)\bin\Debug\net5.0\Operacje na stringach (StringBuilder).deps.json
+D:\C# kursy\Operacje na stringach (StringBuilder)\bin\Debug\net5.0\Operacje na stringach (StringBuilder).runtimeconfig.json
+D:\C# kursy\Operacje na stringach (StringBuilder)\bin\Debug\net5.0\Operacje na stringach (StringBuilder).runtimeconfig.dev.json
+D:\C# kursy\Operacje na stringach (StringBuilder)\bin\Debug\net5.0\Operacje na stringach (StringBuilder).dll
+D:\C# kursy\Operacje na stringach (StringBuilder)\bin\Debug\net5.0\Operacje na stringach (StringBuilder).pdb
+D:\C# kursy\Operacje na stringach (StringBuilder)\obj\Debug\net5.0\Operacje na stringach (StringBuilder).GeneratedMSBuildEditorConfig.editorconfig
+D:\C# kursy\Operacje na stringach (StringBuilder)\obj\Debug\net5.0\Operacje na stringach (StringBuilder).AssemblyInfoInputs.cache
+D:\C# kursy\Operacje na stringach (StringBuilder)\obj\Debug\net5.0\Operacje na stringach (StringBuilder).AssemblyInfo.cs
+D:\C# kursy\Operacje na stringach (StringBuilder)\obj\Debug\net5.0\Operacje na stringach (StringBuilder).csproj.CoreCompileInputs.cache
+D:\C# kursy\Operacje na stringach (StringBuilder)\obj\Debug\net5.0\Operacje na stringach (StringBuilder).dll
+D:\C# kursy\Operacje na stringach (StringBuilder)\obj\Debug\net5.0\ref\Operacje na stringach (StringBuilder).dll
+D:\C# kursy\Operacje na stringach (StringBuilder)\obj\Debug\net5.0\Operacje na stringach (StringBuilder).pdb
+D:\C# kursy\Operacje na stringach (StringBuilder)\obj\Debug\net5.0\Operacje na stringach (StringBuilder).genruntimeconfig.cache
+D:\C# kursy\Operacje na stringach (StringBuilder)\obj\Debug\net5.0\Operacje na stringach (StringBuilder).csproj.AssemblyReference.cache
+D:\C# kursy\Operacje na stringach (StringBuilder)\obj\Debug\net5.0\refint\Operacje na stringach (StringBuilder).dll
