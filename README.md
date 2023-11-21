@@ -16,6 +16,6 @@ To repozytorium zawiera wszystkie pliki źródłowe, notatki, oraz projekty, kt�
 
 ## Jak korzystać z tego repozytorium
 
-1. Sklonuj to repozytorium na swój lokalny komputer: `git clone https://github.com/KwasniakJakub/Nauka`
+1. Sklonuj to repozytorium na swój lokalny komputer: `git clone https://github.com/KwasniakJakub/Nauka.git`
 2. Otwórz odpowiedni katalog z lekcją na temat danego agadnienia.
 3. Przeglądaj pliki związane z danym zagadnieniem.
